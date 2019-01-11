@@ -2,7 +2,7 @@ body{
 	font-family:monospace;
 	background-color: #f3f3f3;
 	padding:0;
-	margin:0;
+	margin:0px 300px;
 	background-image:url(https://wallpaperplay.com/walls/full/6/6/2/83593.jpg);
 	background-attachment:fixed;
 }
@@ -30,7 +30,7 @@ body{
 	text-decoration:none;
 	padding: 5px 10px;
 	position:relative;
-	top:10px;
+	top:100px;
 	transition: top 300ms ease;
 }
 
